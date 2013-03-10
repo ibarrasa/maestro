@@ -22,10 +22,9 @@ h3 {
 h4 {
 	font-size: 14px;
 }
-body {
-	background-image: url(images/bg.jpg);
-	background-repeat: repeat;
 
+body {
+	background: #F3F3F3;
 }
 .container {
 	margin: auto;
