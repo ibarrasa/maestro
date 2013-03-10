@@ -11,16 +11,16 @@ footer, header, hgroup, menu, nav, section {display: block}
 	background-repeat: repeat;
 	background-position: right center;}
 h1 {
-	font-size: 36px;
+	font-size: 39px;
 }
 h2 {
-	font-size: 18px;
+	font-size: 20px;
 }
 h3 {
-	font-size: 16px;
+	font-size: 17px;
 }
 h4 {
-	font-size: 14px;
+	font-size: 31px;
 }
 body {
 	background-image: url(images/bg.jpg);
